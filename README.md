@@ -1,4 +1,4 @@
-# 🚀 Quality of Service (QoS) Implementation in a Multi-VLAN Network
+# Quality of Service (QoS) Implementation in a Multi-VLAN Network
 
 ## 📘 Project Overview
 
